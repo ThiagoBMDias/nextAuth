@@ -19,3 +19,4 @@ yarn dev
 
 ## Link to the video:
 
+https://www.youtube.com/watch?v=hc-sNg2-FtI
